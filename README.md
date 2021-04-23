@@ -13,7 +13,7 @@
 [<img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
 [<img alt="Arch Linux" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />](https://www.google.com/search?&q=Arch%20Linux)
 [<img alt="Vim" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" />](https://www.google.com/search?&q=Vim)
-[<img alt="Bash" width="5%" src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" />]
+[<img alt="Bash" width="5%" src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" />]()
 
 ## &#x1f4c8; GIT Stats
 
