@@ -1,5 +1,5 @@
 [<img alt="Anshul" src="/assets/9.jpg"/>]()
-```Software Developer, Computer Engineer and Linux Enthusiast```
+### `Production Engineer with intrest in Software development`
 
 [<img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
 [<img alt="C++" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
@@ -17,7 +17,8 @@
 
 ## &#x1f4c8; GIT Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarafanshul&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sarafanshul&theme=radical" alt="arunsridher" /></p>
+<p align="left"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarafanshul&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+<p><img align="centre" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarafanshul&theme=radical" alt="arunsridher" /></p>
 
+## Commit History
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarafanshul&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
