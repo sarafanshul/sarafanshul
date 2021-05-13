@@ -1,4 +1,7 @@
 [<img alt="Anshul" src="/assets/9.jpg"/>]()
+
+## About Me
+
 ### `Quality Control and Control Statements `
 
 [<img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
@@ -15,10 +18,13 @@
 [<img alt="Vim" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" />](https://www.google.com/search?&q=Vim)
 [<img alt="Bash" width="5%" src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" />]()
 
-## &#x1f4c8; GIT Stats
+### Hobbies
+<p>
+<img src="https://github.com/sarafanshul/sarafanshul/raw/main/assets/fifa17.jpg" width="200" height="200"> 
+<img src="https://github.com/sarafanshul/sarafanshul/raw/main/assets/csgo.png" width="200" height="200"> 
+<img src="https://github.com/sarafanshul/sarafanshul/raw/main/assets/rbf1.jpg" width="200" height="200"> 
+</p>
 
-<p align="left"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarafanshul&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
-<p><img align="centre" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarafanshul&theme=radical" alt="sarafanshul" /></p>
-
-## Commit History
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarafanshul&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+### In Brief
+<p>
+  <img src="https://github.com/sarafanshul/sarafanshul/raw/main/assets/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966.gif" width="480" height="270">
