@@ -7,22 +7,18 @@
 [<img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
 [<img alt="C++" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
 [<img alt="Kotlin" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />](https://www.google.com/search?&q=Kotlin)
-[<img alt="Android" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />](https://www.google.com/search?&q=Android)
+[<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
 [<img alt="Rust" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />](https://www.google.com/search?&q=Rust)
 [<img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
-[<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
-[<img alt="Javascript" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
-[<img alt="MySQL" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
 [<img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
-[<img alt="Arch Linux" width="5%" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" />](https://www.google.com/search?&q=Arch%20Linux)
 [<img alt="Vim" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" />](https://www.google.com/search?&q=Vim)
 [<img alt="Bash" width="5%" src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" />]()
 
 ### Hobbies
 <p>
-<img src="https://github.com/sarafanshul/sarafanshul/raw/main/assets/fifa17.jpg" width="200" height="200"> 
+<img src="https://github.com/sarafanshul/sarafanshul/raw/main/assets/fifa.png" width="200" height="200"> 
 <img src="https://github.com/sarafanshul/sarafanshul/raw/main/assets/csgo.png" width="200" height="200"> 
-<img src="https://github.com/sarafanshul/sarafanshul/raw/main/assets/rbf1.jpg" width="200" height="200"> 
+<img src="https://github.com/sarafanshul/sarafanshul/raw/main/assets/f1.jpg" width="200" height="200"> 
 </p>
 
 ### In Brief
