@@ -1,6 +1,6 @@
-[<img alt="Anshul" src="/assets/9.jpg"/>]()
+[<img alt="Anshul" src="/assets/9.jpg"/>](https://sarafanshul.github.io/portfolio)
 
-## About Me
+## [About Me](https://sarafanshul.github.io/portfolio)
 
 ### `Quality Control and Control Statements `
 
