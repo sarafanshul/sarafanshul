@@ -4,11 +4,10 @@
 
 ### `Quality Control and Control Statements `
 
+[<img alt="Kotlin" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />](https://www.google.com/search?&q=Kotlin)
 [<img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
 [<img alt="C++" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
-[<img alt="Kotlin" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />](https://www.google.com/search?&q=Kotlin)
 [<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
-[<img alt="Rust" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />](https://www.google.com/search?&q=Rust)
 [<img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
 [<img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
 [<img alt="Vim" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" />](https://www.google.com/search?&q=Vim)
