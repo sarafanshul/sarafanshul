@@ -5,6 +5,7 @@
 ### `Quality Control and Control Statements `
 
 [<img alt="Kotlin" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />](https://www.google.com/search?&q=Kotlin)
+[<img alt="OpenGL" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" />](https://www.google.com/search?&q=opengl)
 [<img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
 [<img alt="C++" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
 [<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
